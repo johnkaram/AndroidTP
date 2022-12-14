@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><menu xmlns:android="http://schemas.android.com/apk/res/android">    <item
+    android:id="@+id/ic_Projects"
+    android:icon="@drawable/ic_projects_foreground"
+    android:title="@string/project"/>    <item
+    android:id="@+id/ic_Services"
+    android:icon="@drawable/ic_person_foreground"
+    android:title="@string/Service"/>    <item
+    android:id="@+id/ic_Contact"
+    android:icon="@drawable/ic_launcher_foreground"
+    android:title="@string/contac"/></menu>

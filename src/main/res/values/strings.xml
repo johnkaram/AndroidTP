@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TPandroid</string>
+    <string name="person">Person</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="john">John</string>
+    <string name="projects">Projects</string>
+    <string name="services">Services</string>
+    <string name="contact">Contact</string>
+    <string name="photo_of_agency">photo of agency</string>
+    <string name="Projects">Projects</string>
+    <string name="Services">Services</string>
+    <string name="contacts">Contacts</string>
+    <string name="project">Project</string>
+    <string name="Service">Services</string>
+    <string name="contac">Contact</string>
+</resources>
